@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dorian Hester
+- 👋 Hi, I’m Dorian 
 - 👀 I’m interested in Learning To Code as a Career.
 - 🌱 I’m currently learning The Odin Project ATM.
 - 💞️ I’m looking to collaborate on Projects and to Learn code better with others.
